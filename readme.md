@@ -1,3 +1,14 @@
+embeddings.txt通过命令:
+
+```shell
+python embeddings.py -m prediction_models -f plasmids.fasta
+
+```
+
+获得
+
+
+
 ```python
 import numpy as np 
 import matplotlib.pyplot as plt 
